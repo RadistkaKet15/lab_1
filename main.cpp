@@ -4,7 +4,7 @@
 #include <vector>
 #include "windows.h"
 #include "pipe.h"
-#include "../../../CLionProjects/Gladilkina/lab_1/CompressorStation.h"
+#include "CompressorStation.h"
 
 using namespace std;
 
